@@ -5,7 +5,7 @@
     "price": 29.99,
     "description": "High-quality cotton t-shirt with modern design.",
     "category": "fashion",
-    "image": "https://raw.githubusercontent.com/your-username/your-repo-name/main/images/tshirt.jpg",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/bull1.png",
     "rating": {
       "rate": 4.5,
       "count": 120
@@ -17,7 +17,7 @@
     "price": 59.99,
     "description": "Noise-cancelling Bluetooth headphones with long battery life.",
     "category": "electronics",
-    "image": "https://raw.githubusercontent.com/your-username/your-repo-name/main/images/headphones.jpg",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/bull2.png",
     "rating": {
       "rate": 4.3,
       "count": 200
@@ -29,7 +29,7 @@
     "price": 79.99,
     "description": "Track fitness, heart rate, and notifications in style.",
     "category": "electronics",
-    "image": "https://raw.githubusercontent.com/your-username/your-repo-name/main/images/smartwatch.jpg",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/bull3.png",
     "rating": {
       "rate": 4.2,
       "count": 98
@@ -41,7 +41,7 @@
     "price": 19.99,
     "description": "Durable and sleek wallet for everyday use.",
     "category": "accessories",
-    "image": "https://raw.githubusercontent.com/your-username/your-repo-name/main/images/wallet.jpg",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/bull4.png",
     "rating": {
       "rate": 4.7,
       "count": 300
@@ -53,7 +53,7 @@
     "price": 49.99,
     "description": "Comfortable shoes designed for runners.",
     "category": "fashion",
-    "image": "https://raw.githubusercontent.com/your-username/your-repo-name/main/images/shoes.jpg",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/man.png",
     "rating": {
       "rate": 4.4,
       "count": 150
@@ -65,7 +65,7 @@
     "price": 39.99,
     "description": "Spacious, water-resistant backpack for tech and travel.",
     "category": "accessories",
-    "image": "https://raw.githubusercontent.com/your-username/your-repo-name/main/images/backpack.jpg",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/man3.png",
     "rating": {
       "rate": 4.6,
       "count": 85
