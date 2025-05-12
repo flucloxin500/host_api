@@ -3,13 +3,10 @@
     "id": 1,
     "title": "Stylish T-Shirt",
     "price": 29.99,
-    "description": "High-quality cotton t-shirt with modern design.",
-    "category": "fashion",
+    "maxrange": "1000W",
+    "maxspeed": "40 km/h",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/1.png",
-    "rating": {
-      "rate": 4.5,
-      "count": 120
-    }
+    "maxpower": "2000 W" 
   },
   {
     "id": 2,
