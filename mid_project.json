@@ -2,8 +2,8 @@
   {
     "id": 1,
     "title": "Kixin X-10",
-    "price": 29.99,
-    "maxrange": "1000W",
+    "price": 475.99,
+    "maxrange": "100KM",
     "maxspeed": "40 km/h",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/1.png",
     "maxpower": "2000 W" 
@@ -11,61 +11,51 @@
   {
     "id": 2,
     "title": "Kixin X-08",
-    "price": 59.99,
-    "description": "Noise-cancelling Bluetooth headphones with long battery life.",
-    "category": "electronics",
+    "price": 215.99,
+    "maxrange": "40KM",
+    "maxspeed": "25 km/h",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/2.png",
-    "rating": {
-      "rate": 4.3,
-      "count": 200
+    "maxpower": "350 W" 
     }
   },
   {
     "id": 3,
     "title": "Kixin X-07",
-    "price": 79.99,
-    "description": "Track fitness, heart rate, and notifications in style.",
-    "category": "electronics",
+    "price": 249.99,
+    "maxrange": "50KM",
+    "maxspeed": "30 km/h",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/3.png",
-    "rating": {
-      "rate": 4.2,
-      "count": 98
+    "maxpower": "400 W" 
     }
   },
   {
     "id": 4,
     "title": "Kixin X-09",
-    "price": 19.99,
-    "description": "Durable and sleek wallet for everyday use.",
-    "category": "accessories",
+    "price": 274.99,
+    "maxrange": "65KM",
+    "maxspeed": "35 km/h",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/4.png",
-    "rating": {
-      "rate": 4.7,
-      "count": 300
+    "maxpower": "400 W" 
     }
   },
   {
     "id": 5,
     "title": "Kixin X-06",
-    "price": 49.99,
-    "description": "Comfortable shoes designed for runners.",
-    "category": "fashion",
+    "price": 259.99,
+    "maxrange": "55KM",
+    "maxspeed": "30 km/h",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/5.png",
-    "rating": {
-      "rate": 4.4,
-      "count": 150
+    "maxpower": "350 W" 
     }
   },
   {
     "id": 6,
     "title": "Kixin Twitter A5",
-    "price": 39.99,
-    "description": "Spacious, water-resistant backpack for tech and travel.",
-    "category": "accessories",
+    "price": 649.99,
+    "maxrange": "145KM",
+    "maxspeed": "55 km/h",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/6.png",
-    "rating": {
-      "rate": 4.6,
-      "count": 1
+    "maxpower": "850 W" 
     }
   }
 ]
