@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Stylish T-Shirt",
+    "title": "Kixin X-10",
     "price": 29.99,
     "maxrange": "1000W",
     "maxspeed": "40 km/h",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "title": "Wireless Headphones",
+    "title": "Kixin X-08",
     "price": 59.99,
     "description": "Noise-cancelling Bluetooth headphones with long battery life.",
     "category": "electronics",
@@ -22,7 +22,7 @@
   },
   {
     "id": 3,
-    "title": "Smartwatch",
+    "title": "Kixin X-07",
     "price": 79.99,
     "description": "Track fitness, heart rate, and notifications in style.",
     "category": "electronics",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "title": "Leather Wallet",
+    "title": "Kixin X-09",
     "price": 19.99,
     "description": "Durable and sleek wallet for everyday use.",
     "category": "accessories",
@@ -46,7 +46,7 @@
   },
   {
     "id": 5,
-    "title": "Running Shoes",
+    "title": "Kixin X-06",
     "price": 49.99,
     "description": "Comfortable shoes designed for runners.",
     "category": "fashion",
@@ -58,7 +58,7 @@
   },
   {
     "id": 6,
-    "title": "Laptop Backpack",
+    "title": "Kixin Twitter A5",
     "price": 39.99,
     "description": "Spacious, water-resistant backpack for tech and travel.",
     "category": "accessories",
