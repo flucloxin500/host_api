@@ -3,9 +3,7 @@
     "id": 1,
     "title": "Stylish T-Shirt",
     "price": 29.99,
-    "description": "High-quality
-    cotton t-shirt 
-    with modern design.",
+    "description": "High-quality cotton t-shirt with modern design.",
     "category": "fashion",
     "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/bull1.png",
     "rating": {
