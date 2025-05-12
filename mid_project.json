@@ -70,5 +70,29 @@
       "rate": 4.6,
       "count": 1
     }
+  },
+  {
+    "id": 7,
+    "title": "Laptop Backpack",
+    "price": 39.99,
+    "description": "Spacious, water-resistant backpack for tech and travel.",
+    "category": "accessories",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/man3.png",
+    "rating": {
+      "rate": 4.6,
+      "count": 1
+    }
+  },
+  {
+    "id": 8,
+    "title": "Laptop Backpack",
+    "price": 39.99,
+    "description": "Spacious, water-resistant backpack for tech and travel.",
+    "category": "accessories",
+    "image": "https://raw.githubusercontent.com/flucloxin500/host_api/refs/heads/main/man3.png",
+    "rating": {
+      "rate": 4.6,
+      "count": 1
+    }
   }
 ]
